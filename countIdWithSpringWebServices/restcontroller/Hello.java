@@ -1,2 +1,2 @@
-package com.example.demo.restcontroller;
+package com.example.countIdWithSpringWebServices.restcontroller;
 public record Hello(long id, String content) { }
